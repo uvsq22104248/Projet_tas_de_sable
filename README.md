@@ -4,3 +4,10 @@ coucou
 hello
 test
 test2
+#########################################
+# groupe BI 4
+# Maéva DERREVEAU
+# Titi LEVAINQUEUR
+# etc...
+# https://github.com/uvsq-info/l1-python
+#########################################
