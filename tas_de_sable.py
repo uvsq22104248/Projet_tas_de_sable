@@ -49,23 +49,7 @@ def init_terrain():
 
 
 
-############################################################
 
-def init_terrain():
-    grille = [1, 2, 3]
-    for i in range(N):
-    for j in range(N):
-        if rd.uniform(0,1) < P:
-            terrain[i] [j] = 1 
-            couleur = COUL_MUR
-        else :
-            couleur = COUL_VIDE
-
-
-
-hauteur = HAUTEUR // N 
-x0, y0 = i * largeur, j * hauteur
-canvas.create_rectangle((x0, y0), (x1, y1), fill=couleur)
 
 
 
